@@ -1,3 +1,7 @@
 node_modules/
 dist/
 .env
+PRD_Identity_Reconciliation.md
+RENDER_DEPLOYMENT.md
+REQUIREMENT.md
+TRD_Identity_Reconciliation.md
