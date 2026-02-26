@@ -39,7 +39,7 @@ Now, deploy the Node.js application.
    - **Branch:** `main`
    - **Runtime:** `Node`
    - **Build Command:** `npm install && npx prisma generate && npm run build`
-   - **Start Command:** `npx prisma migrate deploy && npm start`
+   - **Start Command:** `npm start`
 4. Select the **Free** instance type.
 
 ## Step 4: Configure Environment Variables
